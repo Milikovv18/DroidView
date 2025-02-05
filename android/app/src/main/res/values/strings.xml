@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Interface Collector</string>
+    <string name="accessibility_service_label">Hierarchy retriever</string>
+    <string name="accessibility_service_description">Service necessary for gathering hierarchy data from UI</string>
+</resources>
