@@ -22,4 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "InterfaceCollector"
 include(":app")
 include(":rtmp_muxer")
-project(":rtmp_muxer").projectDir = File("./rtmp_muxer")
+project(":rtmp_muxer").projectDir = File("./rtmp_muxer/rtmp")

@@ -1,0 +1,3 @@
+[submodule "android/rtmp_muxer"]
+	path = android/rtmp_muxer
+	url = https://github.com/octiplex/Android-RTMP-Muxer.git
